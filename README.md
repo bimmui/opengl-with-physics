@@ -1,5 +1,4 @@
-# OpenGL with Physics
-## _A Simple Physics Engine_
+# OpenGL with Physics: A Simple Physics Engine
 
 As the title states, this is a simple physics simulator meant as a means to learn how physics engine are created and how they work. This project was done on Windows machine.
 
